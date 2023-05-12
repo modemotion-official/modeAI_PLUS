@@ -1,4 +1,4 @@
-##MODEMOTION
+#MODEMOTION
 MODEAI_PLUS Story board
 
 This repo works with <kvus.xyz/modeAI/mrbs>.
